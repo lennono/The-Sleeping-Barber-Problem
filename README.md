@@ -17,7 +17,7 @@ If there are waiting customers,
 - he awakens one and waits for the customer to sit in the barber’s chair, 
 - otherwise he sleeps.
 
-![alt text](https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj-saiZ1_zbAhVCecAKHWxUBm8QjRx6BAgBEAU&url=http%3A%2F%2Feit77.blogspot.com%2F2013%2F08%2Fproducer-consumer-and-sleeping-barbe.html&psig=AOvVaw2YtxOBCdLIAbQUOCAy63Ty&ust=1530492549240163)
+![alt text](http://1.bp.blogspot.com/-11LLqwNuV6o/UhjhcUEvIDI/AAAAAAAAAEM/n-xjhP_Rr1w/s200/2-35.png)
 
 
 A sleeping barber implementation done in java, making use of Semaphores.
