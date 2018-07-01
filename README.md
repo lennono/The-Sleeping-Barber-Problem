@@ -17,12 +17,14 @@ If there are waiting customers,
 - he awakens one and waits for the customer to sit in the barber’s chair, 
 - otherwise he sleeps.
 
+
+
 ![alt text](http://1.bp.blogspot.com/-11LLqwNuV6o/UhjhcUEvIDI/AAAAAAAAAEM/n-xjhP_Rr1w/s200/2-35.png)
 
 
 A sleeping barber implementation done in java, making use of Semaphores.
 
-Specs on this implementation:
+## Specs on this implementation:
 - A waiting room with 15 seats 
 - 3 babers
 - Endless stream of customers, arriving 1 at a time after one another 
