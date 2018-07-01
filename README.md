@@ -22,7 +22,7 @@ If there are waiting customers,
 ![alt text](http://1.bp.blogspot.com/-11LLqwNuV6o/UhjhcUEvIDI/AAAAAAAAAEM/n-xjhP_Rr1w/s200/2-35.png)
 
 
-A sleeping barber implementation done in java, making use of Semaphores.
+
 
 ## Specs on this implementation:
 - A waiting room with 15 seats 
